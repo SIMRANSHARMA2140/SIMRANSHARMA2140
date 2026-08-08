@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @SIMRANSHARMA2140
-- 👀 I’m skilled in Python, SQL, Java, Excel and Power Bi
-- 🌱 I’m currently learning Machine learning
+
